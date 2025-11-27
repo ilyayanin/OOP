@@ -1,0 +1,5 @@
+package ru.mirea.uibo1.yanin.pr6;
+
+public interface Printable {
+    void print();
+}
